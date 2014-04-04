@@ -4,8 +4,8 @@ public class gitasd {
 
 	public static void main(String[] args) {
 		System.out.println("segundo commit");
-		System.out.println("en la web viejex y wea");
-		
+		System.out.println("en el pc viejex ");
+		System.out.println("askjcsghfsrvbjkasasrv");
 	}
 
 	
