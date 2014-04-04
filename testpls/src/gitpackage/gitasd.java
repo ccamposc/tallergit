@@ -6,6 +6,8 @@ public class gitasd {
 		System.out.println("segundo commit");
 		System.out.println("en el pc viejex ");
 		System.out.println("askjcsghfsrvbjkasasrv");
+		System.out.println("en la web viejex y q PASAA");
+		
 	}
 
 	
